@@ -5,8 +5,15 @@
 </h1>
 
 
-# Privacy-Resources ![Awesome community](https://img.shields.io/badge/awesome-hacking-green.svg) ![Awesome Hacking](https://img.shields.io/badge/hardware-toolkit-red.svg) ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Privacy-Resources ![Privacy Resources](https://img.shields.io/badge/hardware-toolkit-red.svg) ![Awesome Privacy](https://img.shields.io/badge/awesome-hacking-green.svg)
 
 
 
 <h2>Disclaimer:</h2>
+
+
+## Categorías
+ * [cat1](#cat1)
+ * [cat2](#cat2)
+ * [cat3](#cat3)
+ * [cat4](#cat4)
