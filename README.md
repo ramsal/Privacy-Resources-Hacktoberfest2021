@@ -11,10 +11,42 @@ A collection of privacy resources for those interested in protecting information
 - [Whonix](https://www.whonix.org/)
 - [Subgraph OS](https://subgraph.com/)
 - [Kodachi](https://sourceforge.net/projects/linuxkodachi/)
-
-
-
-## Office
-
+- [LineageOS](https://lineageos.org/)
 
 ## Browsers
+- [Brave](https://brave.com/)
+- [Firefox](https://www.mozilla.org/es-ES/firefox/)
+- [TOR](https://www.torproject.org/download/)
+
+## Office
+- [Libre Office](https://duckduckgo.com/)
+- [WPS Office](https://www.wps.com/)
+- [Calligra](https://www.calligra.org/)
+- [AbiWord](https://www.abisource.com/)
+
+## Addons for Browsers
+- [uBlock Origin](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
+- [Privacy Badger](https://www.eff.org/es/node/99095)
+- [TOR](https://www.torproject.org/download/)
+- [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)
+
+## Search
+- [DuckDuckGo](https://duckduckgo.com/)
+- [Qwant](https://www.qwant.com/)
+- [Ecosia](https://www.ecosia.org/)
+
+## Social
+- [Mattermost](https://mattermost.com/)
+- [Diaspora](https://diasporafoundation.org/)
+- [Riot IM](https://about.riot.im/)
+
+## Cloud
+- [NextCloud](https://nextcloud.com/)
+- [OwnCloud](https://owncloud.org/)
+
+## Security
+- [DashLane](https://www.dashlane.com/)
+- [Signal](https://www.signal.org/es/)
+- [HaveIBeenPwned](https://haveibeenpwned.com/)
+- [Hacked Emails](https://hacked-emails.com/)
+- [Password Check](https://howsecureismypassword.net/)
