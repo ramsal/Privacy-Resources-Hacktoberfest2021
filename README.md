@@ -5,17 +5,16 @@
 A collection of privacy resources for those interested in protecting information. 
 
 
-## Categorías
- * [Operating Systems](#Operating Systems)
- * [Office](#Office)
- * [Browsers](#Browsers)
- * [cat4](#cat4)
+## Operating Systems
+- [Tails](https://tails.boum.org/index.es.html)
+- [Qubes OS](https://www.qubes-os.org/)
+- [Whonix](https://www.whonix.org/)
+- [Subgraph OS](https://subgraph.com/)
+- [Kodachi](https://sourceforge.net/projects/linuxkodachi/)
 
 
-###Operating Systems
+
+## Office
 
 
-###Office
-
-
-###Browsers
+## Browsers
