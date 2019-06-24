@@ -1,19 +1,22 @@
-<h1 align="center">
  	<br>
  	  <img width="200" src="https://raw.githubusercontent.com/ramsal/Privacy-Resources/master/Privacy%20Resources.png" alt="logo">
   <br>
-</h1>
-
 
 # Privacy-Resources ![Privacy Resources](https://img.shields.io/badge/privacy-resources-green.svg) ![Awesome Privacy](https://img.shields.io/badge/awesome-privacy-red.svg)
-
-
-
-<h2>Disclaimer:</h2>
+A collection of privacy resources for those interested in protecting information. 
 
 
 ## Categorías
- * [cat1](#cat1)
- * [cat2](#cat2)
- * [cat3](#cat3)
+ * [Operating Systems](#Operating Systems)
+ * [Office](#Office)
+ * [Browsers](#Browsers)
  * [cat4](#cat4)
+
+
+###Operating Systems
+
+
+###Office
+
+
+###Browsers
