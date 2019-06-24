@@ -17,6 +17,7 @@ A collection of privacy resources for those interested in protecting information
 - [Brave](https://brave.com/)
 - [Firefox](https://www.mozilla.org/es-ES/firefox/)
 - [TOR](https://www.torproject.org/download/)
+- [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)
 
 ## Office
 - [Libre Office](https://duckduckgo.com/)
@@ -27,8 +28,6 @@ A collection of privacy resources for those interested in protecting information
 ## Addons for Browsers
 - [uBlock Origin](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 - [Privacy Badger](https://www.eff.org/es/node/99095)
-- [TOR](https://www.torproject.org/download/)
-- [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)
 
 ## Search
 - [DuckDuckGo](https://duckduckgo.com/)
