@@ -28,6 +28,9 @@ A collection of privacy resources for those interested in protecting information
 ## Addons for Browsers
 - [uBlock Origin](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 - [Privacy Badger](https://www.eff.org/es/node/99095)
+- [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
+- [No Script](https://addons.mozilla.org/es/firefox/addon/noscript/)
+- [Ghostery](https://www.ghostery.com/)
 
 ## Search
 - [DuckDuckGo](https://duckduckgo.com/)
@@ -46,7 +49,12 @@ A collection of privacy resources for those interested in protecting information
 ## Email
 -[ProtonMail](https://protonmail.com/)
 
+## VPN
+- [ProtonVPN](https://protonvpn.com/)
+- [TORpi](https://github.com/ramsal/SysAdminTools/blob/master/TORpi.sh)
+
 ## Security
+- [KeePassXC](https://keepassxc.org/)
 - [DashLane](https://www.dashlane.com/)
 - [Signal](https://www.signal.org/es/)
 - [HaveIBeenPwned](https://haveibeenpwned.com/)
@@ -56,3 +64,4 @@ A collection of privacy resources for those interested in protecting information
 
 ## Others 
 - [NotMining](https://notmining.es/)
+- [PanoptiClick](https://panopticlick.eff.org/)
