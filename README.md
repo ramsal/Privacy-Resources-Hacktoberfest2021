@@ -5,7 +5,7 @@
 </h1>
 
 
-# Privacy-Resources ![Privacy Resources](https://img.shields.io/badge/hardware-toolkit-red.svg) ![Awesome Privacy](https://img.shields.io/badge/awesome-hacking-green.svg)
+# Privacy-Resources ![Privacy Resources](https://img.shields.io/badge/privacy-resources-green.svg) ![Awesome Privacy](https://img.shields.io/badge/awesome-privacy-red.svg)
 
 
 
