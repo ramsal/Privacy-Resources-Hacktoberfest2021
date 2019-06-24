@@ -13,17 +13,17 @@ A collection of privacy resources for those interested in protecting information
 - [Kodachi](https://sourceforge.net/projects/linuxkodachi/)
 - [LineageOS](https://lineageos.org/)
 
-## Browsers
-- [Brave](https://brave.com/)
-- [Firefox](https://www.mozilla.org/es-ES/firefox/)
-- [TOR](https://www.torproject.org/download/)
-- [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)
-
 ## Office
 - [Libre Office](https://duckduckgo.com/)
 - [WPS Office](https://www.wps.com/)
 - [Calligra](https://www.calligra.org/)
 - [AbiWord](https://www.abisource.com/)
+
+## Browsers
+- [Brave](https://brave.com/)
+- [Firefox](https://www.mozilla.org/es-ES/firefox/)
+- [TOR](https://www.torproject.org/download/)
+- [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)
 
 ## Addons for Browsers
 - [uBlock Origin](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
