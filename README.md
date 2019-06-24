@@ -43,9 +43,16 @@ A collection of privacy resources for those interested in protecting information
 - [NextCloud](https://nextcloud.com/)
 - [OwnCloud](https://owncloud.org/)
 
+## Email
+-[ProtonMail](https://protonmail.com/)
+
 ## Security
 - [DashLane](https://www.dashlane.com/)
 - [Signal](https://www.signal.org/es/)
 - [HaveIBeenPwned](https://haveibeenpwned.com/)
 - [Hacked Emails](https://hacked-emails.com/)
 - [Password Check](https://howsecureismypassword.net/)
+- [Virus Total](https://www.virustotal.com)
+
+## Others 
+- [NotMining](https://notmining.es/)
