@@ -47,7 +47,7 @@ A collection of privacy resources for those interested in protecting information
 - [OwnCloud](https://owncloud.org/)
 
 ## Email
--[ProtonMail](https://protonmail.com/)
+- [ProtonMail](https://protonmail.com/)
 
 ## VPN
 - [ProtonVPN](https://protonvpn.com/)
