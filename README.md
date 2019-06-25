@@ -37,6 +37,8 @@ A collection of privacy resources for those interested in protecting information
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Qwant](https://www.qwant.com/)
 - [Ecosia](https://www.ecosia.org/)
+- [Searx](http://searx.me/)
+- [StartPage](http://startpage.com/)
 
 ## Social
 - [Mattermost](https://mattermost.com/)
