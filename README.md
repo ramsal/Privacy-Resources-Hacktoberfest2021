@@ -31,6 +31,7 @@ A collection of privacy resources for those interested in protecting information
 - [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
 - [No Script](https://addons.mozilla.org/es/firefox/addon/noscript/)
 - [Ghostery](https://www.ghostery.com/)
+- [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived/?src=search)
 
 ## Search
 - [DuckDuckGo](https://duckduckgo.com/)
@@ -65,3 +66,4 @@ A collection of privacy resources for those interested in protecting information
 ## Others 
 - [NotMining](https://notmining.es/)
 - [PanoptiClick](https://panopticlick.eff.org/)
+- [Metadata Viewer](https://metashieldclean-up.elevenpaths.com/#)
