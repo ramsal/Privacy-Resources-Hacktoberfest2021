@@ -54,6 +54,12 @@ A collection of privacy resources for those interested in protecting information
 - [ProtonVPN](https://protonvpn.com/)
 - [TORpi](https://github.com/ramsal/SysAdminTools/blob/master/TORpi.sh)
 
+## Web Apps
+- [WordPress](https://wordpress.org/)
+
+## Firmware
+- [OpenWrt](https://openwrt.org/)
+
 ## Security
 - [KeePassXC](https://keepassxc.org/)
 - [DashLane](https://www.dashlane.com/)
