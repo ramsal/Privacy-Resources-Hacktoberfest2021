@@ -43,9 +43,15 @@ A collection of privacy resources for those interested in protecting information
 - [Diaspora](https://diasporafoundation.org/)
 - [Riot IM](https://about.riot.im/)
 
+## Ads Blocks
+- [PiHole](https://pi-hole.net/)
+
 ## Cloud
 - [NextCloud](https://nextcloud.com/)
 - [OwnCloud](https://owncloud.org/)
+
+## Web Apps
+- [WordPress](https://wordpress.org/)
 
 ## Email
 - [ProtonMail](https://protonmail.com/)
@@ -53,9 +59,6 @@ A collection of privacy resources for those interested in protecting information
 ## VPN
 - [ProtonVPN](https://protonvpn.com/)
 - [TORpi](https://github.com/ramsal/SysAdminTools/blob/master/TORpi.sh)
-
-## Web Apps
-- [WordPress](https://wordpress.org/)
 
 ## Firmware
 - [OpenWrt](https://openwrt.org/)
@@ -65,6 +68,7 @@ A collection of privacy resources for those interested in protecting information
 - [RaspberryPi](https://www.raspberrypi.org/)
 - [OrangePi](http://www.orangepi.org/)
 - [Pine64](https://www.pine64.org/)
+- [Odroid](https://www.hardkernel.com/)
 
 ## Security
 - [KeePassXC](https://keepassxc.org/)
