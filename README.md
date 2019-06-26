@@ -60,6 +60,12 @@ A collection of privacy resources for those interested in protecting information
 ## Firmware
 - [OpenWrt](https://openwrt.org/)
 
+## Hardware
+- [Arduino](https://www.arduino.cc/)
+- [RaspberryPi](https://www.raspberrypi.org/)
+- [OrangePi](http://www.orangepi.org/)
+- [Pine64](https://www.pine64.org/)
+
 ## Security
 - [KeePassXC](https://keepassxc.org/)
 - [DashLane](https://www.dashlane.com/)
