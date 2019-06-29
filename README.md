@@ -53,6 +53,10 @@ A collection of privacy resources for those interested in protecting information
 ## Web Apps
 - [WordPress](https://wordpress.org/)
 
+## IDEs
+- [Atom](https://atom.io/)
+- [Vim](https://www.vim.org)
+
 ## Email
 - [ProtonMail](https://protonmail.com/)
 
