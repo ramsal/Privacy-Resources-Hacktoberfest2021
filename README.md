@@ -5,7 +5,7 @@
 A collection of privacy resources for those interested in protecting information. 
 </h2>
 
-## Operating Systems
+### Operating Systems
 - [Tails](https://tails.boum.org/index.es.html)
 - [Qubes OS](https://www.qubes-os.org/)
 - [Whonix](https://www.whonix.org/)
@@ -13,19 +13,19 @@ A collection of privacy resources for those interested in protecting information
 - [Kodachi](https://sourceforge.net/projects/linuxkodachi/)
 - [LineageOS](https://lineageos.org/)
 
-## Office
+### Office
 - [Libre Office](https://duckduckgo.com/)
 - [WPS Office](https://www.wps.com/)
 - [Calligra](https://www.calligra.org/)
 - [AbiWord](https://www.abisource.com/)
 
-## Browsers
+### Browsers
 - [Brave](https://brave.com/)
 - [Firefox](https://www.mozilla.org/es-ES/firefox/)
 - [TOR](https://www.torproject.org/download/)
 - [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)
 
-## Addons for Browsers
+### Addons for Browsers
 - [uBlock Origin](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 - [Privacy Badger](https://www.eff.org/es/node/99095)
 - [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
@@ -33,48 +33,48 @@ A collection of privacy resources for those interested in protecting information
 - [Ghostery](https://www.ghostery.com/)
 - [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived/?src=search)
 
-## Search
+### Search
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Qwant](https://www.qwant.com/)
 - [Ecosia](https://www.ecosia.org/)
 
-## Social
+### Social
 - [Mattermost](https://mattermost.com/)
 - [Diaspora](https://diasporafoundation.org/)
 - [Riot IM](https://about.riot.im/)
 
-## Ads Blocks
+### Ads Blocks
 - [PiHole](https://pi-hole.net/)
 
-## Cloud
+### Cloud
 - [NextCloud](https://nextcloud.com/)
 - [OwnCloud](https://owncloud.org/)
 
-## Web Apps
+### Web Apps
 - [WordPress](https://wordpress.org/)
 
-## IDEs
+### IDEs
 - [Atom](https://atom.io/)
 - [Vim](https://www.vim.org)
 
-## Email
+### Email
 - [ProtonMail](https://protonmail.com/)
 
-## VPN
+### VPN
 - [ProtonVPN](https://protonvpn.com/)
 - [TORpi](https://github.com/ramsal/SysAdminTools/blob/master/TORpi.sh)
 
-## Firmware
+### Firmware
 - [OpenWrt](https://openwrt.org/)
 
-## Hardware
+### Hardware
 - [Arduino](https://www.arduino.cc/)
 - [RaspberryPi](https://www.raspberrypi.org/)
 - [OrangePi](http://www.orangepi.org/)
 - [Pine64](https://www.pine64.org/)
 - [Odroid](https://www.hardkernel.com/)
 
-## Security
+### Security
 - [KeePassXC](https://keepassxc.org/)
 - [DashLane](https://www.dashlane.com/)
 - [Signal](https://www.signal.org/es/)
@@ -83,7 +83,7 @@ A collection of privacy resources for those interested in protecting information
 - [Password Check](https://howsecureismypassword.net/)
 - [Virus Total](https://www.virustotal.com)
 
-## Others 
+### Others 
 - [NotMining](https://notmining.es/)
 - [PanoptiClick](https://panopticlick.eff.org/)
 - [Metadata Viewer](https://metashieldclean-up.elevenpaths.com/#)
