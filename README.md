@@ -5,19 +5,21 @@
 A collection of privacy resources for those interested in protecting information. 
 </h2>
 
-### Operating Systems
-- [Tails](https://tails.boum.org/index.es.html) ![linux]
-- [Qubes OS](https://www.qubes-os.org/) ![linux]
-- [Whonix](https://www.whonix.org/) ![linux]
-- [Subgraph OS](https://subgraph.com/)![linux]
-- [Kodachi](https://sourceforge.net/projects/linuxkodachi/)![linux]
-- [LineageOS](https://lineageos.org/) ![android]
+|Operating Systems||||
+|---|---|---|---|
+|[Tails](https://tails.boum.org/index.es.html)|![linux]|`Desktop` `based on Debian`|text|
+|[Qubes OS](https://www.qubes-os.org/)|![linux]||`Desktop`|text|
+|[Whonix](https://www.whonix.org/)|![linux]|`Desktop` `based on Debian`|text|
+|[Subgraph OS](https://subgraph.com/)|![linux]|`Desktop` `based on Debian`|text|
+|[Kodachi](https://sourceforge.net/projects/linuxkodachi/)|![linux]|`Desktop` `based on Xubuntu`|text|
+|[LineageOS](https://lineageos.org/)|![android]|`Mobile` `based on Android`|text|
 
-### Office
-- [Libre Office](https://duckduckgo.com/) ![linux] ![windows] ![apple]
-- [WPS Office](https://www.wps.com/) ![linux]
-- [Calligra](https://www.calligra.org/) ![linux]
-- [AbiWord](https://www.abisource.com/) ![linux]
+|Office||||
+|---|---|---|---|
+|[Libre Office](https://duckduckgo.com/)| ![linux] ![windows] ![apple]||text|
+|[WPS Office](https://www.wps.com/)| ![linux]|text|text|
+|[Calligra](https://www.calligra.org/)| ![linux]|text|text|
+|[AbiWord](https://www.abisource.com/)| ![linux]|text|text|
 
 ### Browsers
 - [Brave](https://brave.com/) ![linux] ![windows] ![apple] ![android]
