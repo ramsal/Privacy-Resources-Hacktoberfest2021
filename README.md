@@ -12,11 +12,11 @@ A collection of privacy resources for those interested in protecting information
 |[Whonix](https://www.whonix.org/)|![linux]|`Desktop` `based on Debian`|text|
 |[Subgraph OS](https://subgraph.com/)|![linux]|`Desktop` `based on Debian`|text|
 |[Kodachi](https://sourceforge.net/projects/linuxkodachi/)|![linux]|`Desktop` `based on Xubuntu`|text|
-|[LineageOS](https://lineageos.org/)|![android]|`Mobile` `based on Android`|text|
+|[LineageOS](https://lineageos.org/)|![android] ![open]|`Mobile` `based on Android`|text|
 
 |Office||||
 |---|---|---|---|
-|[Libre Office](https://duckduckgo.com/)| ![linux] ![windows] ![apple]||text|
+|[Libre Office](https://duckduckgo.com/)| ![linux] ![windows] ![apple]|![open]|text|
 |[WPS Office](https://www.wps.com/)| ![linux]|text|text|
 |[Calligra](https://www.calligra.org/)| ![linux]|text|text|
 |[AbiWord](https://www.abisource.com/)| ![linux]|text|text|
@@ -24,7 +24,7 @@ A collection of privacy resources for those interested in protecting information
 |Browsers||||
 |---|---|---|---|
 |[Brave](https://brave.com/)| ![linux] ![windows] ![apple] ![android]|text|text|
-|[Firefox](https://www.mozilla.org/es-ES/firefox/)| ![linux] ![windows] ![apple] ![android]|text|text|
+|[Firefox](https://www.mozilla.org/es-ES/firefox/)| ![linux] ![windows] ![apple] ![android]|![open]|text|
 |[TOR](https://www.torproject.org/download/)| ![linux] ![windows] ![apple]|text|text|
 |[Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)| ![android]|text|text|
 
@@ -45,9 +45,9 @@ A collection of privacy resources for those interested in protecting information
 
 |Social|||
 |---|---|---|
-|[Mattermost](https://mattermost.com/)|text|text|
-|[Diaspora](https://diasporafoundation.org/)|text|text|
-|[Riot IM](https://about.riot.im/)|text|text|
+|[Mattermost](https://mattermost.com/)|![open]|text|
+|[Diaspora](https://diasporafoundation.org/)|![open]|text|
+|[Riot IM](https://about.riot.im/)|![open]|text|
 
 |Ads Blocks|||
 |---|---|---|
@@ -109,3 +109,4 @@ A collection of privacy resources for those interested in protecting information
 [apple]: ./icons/apple.png
 [windows]: ./icons/window.png
 [android]: ./icons/android.png
+[open]: ./icons/opensource.png
