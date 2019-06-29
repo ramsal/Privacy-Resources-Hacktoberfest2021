@@ -1,1 +1,1 @@
-https://fontawesome.com
+https://freeicons.io
