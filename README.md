@@ -6,12 +6,12 @@ A collection of privacy resources for those interested in protecting information
 </h2>
 
 ### Operating Systems
-- [Tails](https://tails.boum.org/index.es.html)
-- [Qubes OS](https://www.qubes-os.org/)
+- [Tails](https://tails.boum.org/index.es.html) ![linux] 
+- [Qubes OS](https://www.qubes-os.org/) ![linux](./icons/linux-brands.svg =20x20)
 - [Whonix](https://www.whonix.org/)
 - [Subgraph OS](https://subgraph.com/)
 - [Kodachi](https://sourceforge.net/projects/linuxkodachi/)
-- [LineageOS](https://lineageos.org/)
+- [LineageOS](https://lineageos.org/) ![android] 
 
 ### Office
 - [Libre Office](https://duckduckgo.com/)
@@ -87,3 +87,9 @@ A collection of privacy resources for those interested in protecting information
 - [NotMining](https://notmining.es/)
 - [PanoptiClick](https://panopticlick.eff.org/)
 - [Metadata Viewer](https://metashieldclean-up.elevenpaths.com/#)
+
+
+[linux]: ./icons/linux-brands.svg =20x20
+[apple]: ./icons/apple-brands.svg
+[windows]: ./icons/windows-brands.svg 
+[android]: ./icons/android-brands.svg | width=16
