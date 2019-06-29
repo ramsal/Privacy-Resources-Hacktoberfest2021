@@ -6,24 +6,24 @@ A collection of privacy resources for those interested in protecting information
 </h2>
 
 ### Operating Systems
-- [Tails](https://tails.boum.org/index.es.html) 
-- [Qubes OS](https://www.qubes-os.org/) 
-- [Whonix](https://www.whonix.org/) 
-- [Subgraph OS](https://subgraph.com/)
-- [Kodachi](https://sourceforge.net/projects/linuxkodachi/)
-- [LineageOS](https://lineageos.org/) 
+- [Tails](https://tails.boum.org/index.es.html) ![linux]
+- [Qubes OS](https://www.qubes-os.org/) ![linux]
+- [Whonix](https://www.whonix.org/) ![linux]
+- [Subgraph OS](https://subgraph.com/)![linux]
+- [Kodachi](https://sourceforge.net/projects/linuxkodachi/)![linux]
+- [LineageOS](https://lineageos.org/) ![android]
 
 ### Office
-- [Libre Office](https://duckduckgo.com/)
-- [WPS Office](https://www.wps.com/)
-- [Calligra](https://www.calligra.org/)
-- [AbiWord](https://www.abisource.com/)
+- [Libre Office](https://duckduckgo.com/) ![linux] ![windows] ![apple]
+- [WPS Office](https://www.wps.com/) ![linux]
+- [Calligra](https://www.calligra.org/) ![linux]
+- [AbiWord](https://www.abisource.com/) ![linux]
 
 ### Browsers
-- [Brave](https://brave.com/)
-- [Firefox](https://www.mozilla.org/es-ES/firefox/)
-- [TOR](https://www.torproject.org/download/)
-- [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)
+- [Brave](https://brave.com/) ![linux] ![windows] ![apple] ![android]
+- [Firefox](https://www.mozilla.org/es-ES/firefox/) ![linux] ![windows] ![apple] ![android]
+- [TOR](https://www.torproject.org/download/) ![linux] ![windows] ![apple] ![android]
+- [Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es) ![android]
 
 ### Addons for Browsers
 - [uBlock Origin](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
@@ -89,8 +89,7 @@ A collection of privacy resources for those interested in protecting information
 - [Metadata Viewer](https://metashieldclean-up.elevenpaths.com/#)
 
 
-[linux]: ./icons/linux-brands.svg | 20%
-[apple]: ./icons/apple-brands.svg =25x
-[windows]: ./icons/windows-brands.svg =25x25
-[android]: <i class="fab fa-android"></i>
-
+[linux]: ./icons/linux.png 
+[apple]: ./icons/apple.png
+[windows]: ./icons/window.png
+[android]: ./icons/android.png
