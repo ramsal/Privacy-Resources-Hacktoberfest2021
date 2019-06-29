@@ -93,3 +93,4 @@ A collection of privacy resources for those interested in protecting information
 [apple]: ./icons/apple-brands.svg =25x
 [windows]: ./icons/windows-brands.svg =25x25
 [android]: ./icons/android-brands.svg | width=16
+
