@@ -8,7 +8,7 @@ A collection of privacy resources for those interested in protecting information
 |Operating Systems||||
 |---|---|---|---|
 |[Tails](https://tails.boum.org/index.es.html)|![linux]|`Desktop` `based on Debian`|text|
-|[Qubes OS](https://www.qubes-os.org/)|![linux]||`Desktop`|text|
+|[Qubes OS](https://www.qubes-os.org/)|![linux]|`Desktop`|text|
 |[Whonix](https://www.whonix.org/)|![linux]|`Desktop` `based on Debian`|text|
 |[Subgraph OS](https://subgraph.com/)|![linux]|`Desktop` `based on Debian`|text|
 |[Kodachi](https://sourceforge.net/projects/linuxkodachi/)|![linux]|`Desktop` `based on Xubuntu`|text|
@@ -25,7 +25,7 @@ A collection of privacy resources for those interested in protecting information
 |---|---|---|---|
 |[Brave](https://brave.com/)| ![linux] ![windows] ![apple] ![android]|text|text|
 |[Firefox](https://www.mozilla.org/es-ES/firefox/)| ![linux] ![windows] ![apple] ![android]|text|text|
-|[TOR](https://www.torproject.org/download/)| ![linux] ![windows] ![apple] ![android]|text|text|
+|[TOR](https://www.torproject.org/download/)| ![linux] ![windows] ![apple]|text|text|
 |[Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)| ![android]|text|text|
 
 |Addons for Browsers|||
