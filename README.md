@@ -2,7 +2,7 @@
 <img width="200" src="https://raw.githubusercontent.com/ramsal/Privacy-Resources/master/Privacy%20Resources.png" alt="logo">
 
 ![Privacy Resources](https://img.shields.io/badge/privacy-resources-green.svg) ![Awesome Privacy](https://img.shields.io/badge/awesome-privacy-red.svg)
-A collection of privacy resources for those interested in protecting information. 
+<p>A collection of privacy resources for those interested in protecting information. </p>
 </h2>
 
 |Operating Systems||||
