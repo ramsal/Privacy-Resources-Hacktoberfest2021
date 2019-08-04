@@ -49,6 +49,11 @@
 |[Diaspora](https://diasporafoundation.org/)|![open]||
 |[Riot IM](https://about.riot.im/)|![open]||
 
+|Calendar|||
+|---|---|---|
+|[Gnome Calendar](https://wiki.gnome.org/Apps/Calendar)|![open]||
+|[KOrganizer](https://userbase.kde.org/KOrganizer/es)|![open]||
+
 |Ads Blocks|||
 |---|---|---|
 |[PiHole](https://pi-hole.net/)|||
