@@ -65,7 +65,8 @@
 
 |Web Apps|||
 |---|---|---|
-|[WordPress](https://wordpress.org/)|||
+|[Drupal](https://www.drupal.org/)|![open]||
+|[WordPress](https://wordpress.org/)|![open]||
 
 |IDEs|||
 |---|---|---|
