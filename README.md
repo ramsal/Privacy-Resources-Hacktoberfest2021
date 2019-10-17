@@ -46,7 +46,7 @@
 |Social|||
 |---|---|---|
 |[Mattermost](https://mattermost.com/)|![open]||
-|[Diaspora](https://diasporafoundation.org/)|![open]||
+|[Diaspora](https://diasporafoundation.org/)|![open] ![linux]||
 |[Riot IM](https://about.riot.im/)|![open]||
 
 |Calendar|||
