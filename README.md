@@ -79,7 +79,7 @@
 
 |VPN|||
 |---|---|---|
-|[ProtonVPN](https://protonvpn.com/)|||
+|[ProtonVPN](https://protonvpn.com/)| ![linux] ![windows] ![apple] ![android]|![open]||
 |[TORpi](https://github.com/ramsal/SysAdminTools/blob/master/TORpi.sh)|||
 
 |Firmware|||
