@@ -19,7 +19,7 @@
 |[Libre Office](https://duckduckgo.com/)| ![linux] ![windows] ![apple]|![open]||
 |[WPS Office](https://www.wps.com/)| ![linux]|||
 |[Calligra](https://www.calligra.org/)| ![linux]|||
-|[AbiWord](https://www.abisource.com/)| ![linux]|||
+|[AbiWord](https://www.abisource.com/)| ![linux]|![open]||
 
 |Browsers||||
 |---|---|---|---|
@@ -56,12 +56,12 @@
 
 |Ads Blocks|||
 |---|---|---|
-|[PiHole](https://pi-hole.net/)|||
+|[PiHole](https://pi-hole.net/)|![linux]|![open]|
 
 |Cloud|||
 |---|---|---|
-|[NextCloud](https://nextcloud.com/)|||
-|[OwnCloud](https://owncloud.org/)|||
+|[NextCloud](https://nextcloud.com/)|![linux]|![open]|
+|[OwnCloud](https://owncloud.org/)|![linux]|![open]|
 
 |Web Apps|||
 |---|---|---|
@@ -70,33 +70,33 @@
 
 |IDEs|||
 |---|---|---|
-|[Atom](https://atom.io/)|||
-|[Vim](https://www.vim.org)|||
+|[Atom](https://atom.io/)|![open]||
+|[Vim](https://www.vim.org)|![open]||
 
 |Email|||
 |---|---|---|
-|[ProtonMail](https://protonmail.com/)|||
+|[ProtonMail](https://protonmail.com/)||![open]|
 
 |VPN|||
 |---|---|---|
 |[ProtonVPN](https://protonvpn.com/)| ![linux] ![windows] ![apple] ![android]|![open]||
-|[TORpi](https://github.com/ramsal/SysAdminTools/blob/master/TORpi.sh)|||
+|[TORpi](https://github.com/ramsal/SysAdminTools/blob/master/TORpi.sh)|![linux]|![open]|
 
 |Firmware|||
 |---|---|---|
-|[OpenWrt](https://openwrt.org/)|||
+|[OpenWrt](https://openwrt.org/)|![open]||
 
 |Hardware|||
 |---|---|---|
-|[Arduino](https://www.arduino.cc/)|||
-|[RaspberryPi](https://www.raspberrypi.org/)|||
-|[OrangePi](http://www.orangepi.org/)|||
-|[Pine64](https://www.pine64.org/)|||
-|[Odroid](https://www.hardkernel.com/)|||
+|[Arduino](https://www.arduino.cc/)|![open]||
+|[RaspberryPi](https://www.raspberrypi.org/)|![open]||
+|[OrangePi](http://www.orangepi.org/)|![open]||
+|[Pine64](https://www.pine64.org/)|![open]||
+|[Odroid](https://www.hardkernel.com/)|![open]||
 
 |Security|||
 |---|---|---|
-|[KeePassXC](https://keepassxc.org/)|||
+|[KeePassXC](https://keepassxc.org/)|![open]|![linux] ![windows]|
 |[DashLane](https://www.dashlane.com/)|||
 |[Signal](https://www.signal.org/es/)|||
 |[HaveIBeenPwned](https://haveibeenpwned.com/)|||
