@@ -37,11 +37,11 @@
 |[Ghostery](https://www.ghostery.com/)|||
 |[User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived/?src=search)|||
 
-|Search|||
-|---|---|---|
-|[DuckDuckGo](https://duckduckgo.com/)|||
-|[Qwant](https://www.qwant.com/)|||
-|[Ecosia](https://www.ecosia.org/)|||
+|Search|
+|---|
+|[DuckDuckGo](https://duckduckgo.com/)|
+|[Qwant](https://www.qwant.com/)|
+|[Ecosia](https://www.ecosia.org/)|
 
 |Social|||
 |---|---|---|
@@ -104,11 +104,11 @@
 |[Password Check](https://howsecureismypassword.net/)|||
 |[Virus Total](https://www.virustotal.com)|||
 
-|Others |||
-|---|---|---|
-|[NotMining](https://notmining.es/)|||
-|[PanoptiClick](https://panopticlick.eff.org/)|||
-|[Metadata Viewer](https://metashieldclean-up.elevenpaths.com/#)|||
+|Others |
+|---|
+|[NotMining](https://notmining.es/)|
+|[PanoptiClick](https://panopticlick.eff.org/)|
+|[Metadata Viewer](https://metashieldclean-up.elevenpaths.com/#)|
 
 
 [linux]: ./icons/linux.png
