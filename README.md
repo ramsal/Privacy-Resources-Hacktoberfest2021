@@ -28,14 +28,14 @@
 |[TOR](https://www.torproject.org/download/)| ![linux] ![windows] ![apple]|||
 |[Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)| ![android]|||
 
-|Addons for Browsers|||
-|---|---|---|
-|[uBlock Origin](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)|||
-|[Privacy Badger](https://www.eff.org/es/node/99095)|||
-|[HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)|||
-|[No Script](https://addons.mozilla.org/es/firefox/addon/noscript/)|||
-|[Ghostery](https://www.ghostery.com/)|||
-|[User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived/?src=search)|||
+|Addons for Browsers|
+|---|
+|[uBlock Origin](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)|
+|[Privacy Badger](https://www.eff.org/es/node/99095)|
+|[HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)|
+|[No Script](https://addons.mozilla.org/es/firefox/addon/noscript/)|
+|[Ghostery](https://www.ghostery.com/)|
+|[User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived/?src=search)|
 
 |Search|
 |---|
