@@ -48,6 +48,7 @@
 |[Mattermost](https://mattermost.com/)||
 |[Diaspora](https://diasporafoundation.org/)||
 |[Riot IM](https://about.riot.im/)||
+|[Mastodon](https://joinmastodon.org/)||
 
 |Calendar||
 |---|---|
