@@ -27,6 +27,7 @@
 |[Firefox](https://www.mozilla.org/es-ES/firefox/)|`Desktop` `Mobile`|
 |[TOR](https://www.torproject.org/download/)|`Desktop`|
 |[Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)|`Mobile`|
+|[Falkon](https://www.falkon.org/)|`Desktop`|
 
 |Addons for Browsers|
 |---|
@@ -50,6 +51,11 @@
 |[Riot IM](https://about.riot.im/)||
 |[Mastodon](https://joinmastodon.org/)||
 
+|Messaging ||
+|---|---|
+|[Signal](https://signal.org/)||
+|[Rocket.Chat](https://rocket.chat/)||
+
 |Calendar||
 |---|---|
 |[Proton Calendar](https://calendar.protonmail.com/)||
@@ -69,6 +75,12 @@
 |---|---|
 |[Drupal](https://www.drupal.org/)||
 |[WordPress](https://wordpress.org/)||
+
+|Analytics|
+|---|
+|[Matomo](https://matomo.org/)|
+|[Fathom](https://usefathom.com/)|
+|[Simple Analytics](https://simpleanalytics.io/)|
 
 |IDEs||
 |---|---|
@@ -100,7 +112,6 @@
 |---|---|
 |[KeePassXC](https://keepassxc.org/)||
 |[DashLane](https://www.dashlane.com/)||
-|[Signal](https://www.signal.org/es/)||
 |[HaveIBeenPwned](https://haveibeenpwned.com/)||
 |[Hacked Emails](https://hacked-emails.com/)||
 |[Password Check](https://howsecureismypassword.net/)||
