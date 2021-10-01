@@ -16,17 +16,17 @@
 
 |Office||
 |---|---|
-|[Libre Office](https://duckduckgo.com/)| |
-|[WPS Office](https://www.wps.com/)|  |
-|[Calligra](https://www.calligra.org/)|  |
-|[AbiWord](https://www.abisource.com/)|   |
+|[Libre Office](https://libreoffice.org/)|`Desktop`|
+|[WPS Office](https://www.wps.com/)|`Desktop`|
+|[Calligra](https://www.calligra.org/)|`Desktop`|
+|[AbiWord](https://www.abisource.com/)|`Desktop`|
 
 |Browsers||
 |---|---|
-|[Brave](https://brave.com/)| |
-|[Firefox](https://www.mozilla.org/es-ES/firefox/)| |
-|[TOR](https://www.torproject.org/download/)| |
-|[Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)| |
+|[Brave](https://brave.com/)|`Desktop` `Mobile`|
+|[Firefox](https://www.mozilla.org/es-ES/firefox/)|`Desktop` `Mobile`|
+|[TOR](https://www.torproject.org/download/)|`Desktop`|
+|[Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)|`Mobile`|
 
 |Addons for Browsers|
 |---|
@@ -52,6 +52,7 @@
 
 |Calendar||
 |---|---|
+|[Proton Calendar](https://calendar.protonmail.com/)||
 |[Gnome Calendar](https://wiki.gnome.org/Apps/Calendar)||
 |[KOrganizer](https://userbase.kde.org/KOrganizer/es)||
 
