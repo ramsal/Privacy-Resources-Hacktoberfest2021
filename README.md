@@ -55,6 +55,7 @@
 |---|---|
 |[Signal](https://signal.org/)||
 |[Rocket.Chat](https://rocket.chat/)||
+|[Telegram](https://web.telegram.org/)||
 
 |Calendar||
 |---|---|
@@ -75,6 +76,7 @@
 |---|---|
 |[Drupal](https://www.drupal.org/)||
 |[WordPress](https://wordpress.org/)||
+|[Joomla](https://www.joomla.org/)||
 
 |Analytics|
 |---|
@@ -116,11 +118,13 @@
 |[Hacked Emails](https://hacked-emails.com/)||
 |[Password Check](https://howsecureismypassword.net/)||
 |[Virus Total](https://www.virustotal.com)||
+|[Karspersky sandbox](https://www.kaspersky.es/enterprise-security/malware-sandbox)||
 
 |Others |
 |---|
 |[NotMining](https://notmining.es/)|
 |[PanoptiClick](https://panopticlick.eff.org/)|
 |[Metadata Viewer](https://metashieldclean-up.elevenpaths.com/#)|
+|[CiberChef](https://gchq.github.io/CyberChef/)|
 
 
