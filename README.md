@@ -16,17 +16,18 @@
 
 |Office||
 |---|---|
-|[Libre Office](https://duckduckgo.com/)| |
-|[WPS Office](https://www.wps.com/)|  |
-|[Calligra](https://www.calligra.org/)|  |
-|[AbiWord](https://www.abisource.com/)|   |
+|[Libre Office](https://libreoffice.org/)|`Desktop`|
+|[WPS Office](https://www.wps.com/)|`Desktop`|
+|[Calligra](https://www.calligra.org/)|`Desktop`|
+|[AbiWord](https://www.abisource.com/)|`Desktop`|
 
 |Browsers||
 |---|---|
-|[Brave](https://brave.com/)| |
-|[Firefox](https://www.mozilla.org/es-ES/firefox/)| |
-|[TOR](https://www.torproject.org/download/)| |
-|[Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)| |
+|[Brave](https://brave.com/)|`Desktop` `Mobile`|
+|[Firefox](https://www.mozilla.org/es-ES/firefox/)|`Desktop` `Mobile`|
+|[TOR](https://www.torproject.org/download/)|`Desktop`|
+|[Orfox](https://play.google.com/store/apps/details?id=info.guardianproject.orfox&hl=es)|`Mobile`|
+|[Falkon](https://www.falkon.org/)|`Desktop`|
 
 |Addons for Browsers|
 |---|
@@ -50,8 +51,15 @@
 |[Riot IM](https://about.riot.im/)||
 |[Mastodon](https://joinmastodon.org/)||
 
+|Messaging ||
+|---|---|
+|[Signal](https://signal.org/)||
+|[Rocket.Chat](https://rocket.chat/)||
+|[Telegram](https://web.telegram.org/)||
+
 |Calendar||
 |---|---|
+|[Proton Calendar](https://calendar.protonmail.com/)||
 |[Gnome Calendar](https://wiki.gnome.org/Apps/Calendar)||
 |[KOrganizer](https://userbase.kde.org/KOrganizer/es)||
 
@@ -68,6 +76,13 @@
 |---|---|
 |[Drupal](https://www.drupal.org/)||
 |[WordPress](https://wordpress.org/)||
+|[Joomla](https://www.joomla.org/)||
+
+|Analytics|
+|---|
+|[Matomo](https://matomo.org/)|
+|[Fathom](https://usefathom.com/)|
+|[Simple Analytics](https://simpleanalytics.io/)|
 
 |IDEs||
 |---|---|
@@ -99,17 +114,18 @@
 |---|---|
 |[KeePassXC](https://keepassxc.org/)||
 |[DashLane](https://www.dashlane.com/)||
-|[Signal](https://www.signal.org/es/)||
 |[HaveIBeenPwned](https://haveibeenpwned.com/)||
 |[Hacked Emails](https://hacked-emails.com/)||
 |[Password Check](https://howsecureismypassword.net/)||
 |[Virus Total](https://www.virustotal.com)||
 |[Bitwarden](https://www.bitwarden.com)||
+|[Karspersky sandbox](https://www.kaspersky.es/enterprise-security/malware-sandbox)||
 
 |Others |
 |---|
 |[NotMining](https://notmining.es/)|
 |[PanoptiClick](https://panopticlick.eff.org/)|
 |[Metadata Viewer](https://metashieldclean-up.elevenpaths.com/#)|
+|[CiberChef](https://gchq.github.io/CyberChef/)|
 
 
